@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Mikhail Surtsukov"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "I am Deep Learning enthusiast especially interested in Bayesian Deep Learning and Deep Variational Inference"
+  bio              : "I am Deep Learning enthusiast especially interested in Bayesian Deep Learning and Deep Variational Inference and Generative Models"
   location         : "Moscow, Russia"
   email            : "msurtsukov@gmail.com"
   links:

@@ -38,3 +38,14 @@ Additional list of completed courses, books, schools:
   - **Algorithms on Graphs**, University of California San Diego & Higher School of Economics, Grade: 100.0%, [link](https://www.coursera.org/account/accomplishments/records/GKNKPL2T9M8F)
   - **Bayesian Statistics: From Concept to Data Analysis**, University of California, Santa Cruz, Coursera, [link](https://www.coursera.org/account/accomplishments/records/ESLV5SY5FAVN), Grade: 100%
   - **Machine Learning**, Andrew Ng, Stanford, Coursera, [link](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972303~4074858/pdf)
+
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  

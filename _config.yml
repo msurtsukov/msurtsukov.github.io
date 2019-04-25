@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Mikhail Surtsukov"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "I am Deep Learning enthusiast especially interested in Bayesian Deep Learning and Deep Variational Inference and Generative Models"
+  bio              : "I am Deep Learning enthusiast especially interested in Bayesian Deep Learning, Deep Variational Inference and Generative Models"
   location         : "Moscow, Russia"
   email            : "msurtsukov@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:msurtsukov@gmail.com
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:msurtsukov@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/msurtsukov"

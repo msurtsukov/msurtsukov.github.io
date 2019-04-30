@@ -5,6 +5,21 @@ permalink: /about/
 author_profile: true
 ---
 
+Currently I am self-employed DL specialist in Moscow
+
+Was a co-founder of a startup, where we applied ML for predicting Bottom Hole Pressure in hydraulic fracturing wells
+
+
+
+I am also interested in Finance and Robotics
+
+CFA Level 1 Passed
+
+----
+
+My CV is available [here](/cv/)
+
+<!--
 My alma mater is the **Moscow Institute of Physics and Technology** (*MIPT*) - one of the top technical universities in Russia. I entered there for Physics Major, but switched to **CS** in process, where, by the way, were still quite a few physical courses. I chose **Robotics** as a laboratory. With this lab, I went to international robotics competitions *RoboChallenge* in Vienna, Austria to participate in the discipline *AirRace*, where one had to program a multikopter to fly over the traced path with time trial. Our solution was implemented in *ROS* and *OpenCV*, we took 4th place. On the 3rd and 4th years I got interested in **Machine Learning**, took several courses and specializations separately from the university. At the same time on the 4th year I studied finance and passed **CFA Level 1**.
 
 
@@ -17,4 +32,4 @@ With my friend, was one of the founders of a startup which was involved in apply
 My hobbies include mountain biking, snowboarding, mountaineering.
 
 
-My CV is available [here](/cv/).
+ -->

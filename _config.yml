@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Mikhail Surtsukov"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "I am Deep Learning enthusiast especially interested in Bayesian Deep Learning, Deep Variational Inference and Generative Models"
+  bio              : "I am Deep Learning enthusiast interested in Computer Vision, Bayesian Deep Learning and Generative Models"
   location         : "Moscow, Russia"
   email            : "msurtsukov@gmail.com"
   links:
@@ -118,6 +118,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/msurtsukov"
+
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/msurtsukov"
+
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
